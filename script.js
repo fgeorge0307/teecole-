@@ -60,7 +60,6 @@ if (contactForm) {
             
             // Hide message after 5 seconds
             setTimeout(() => {
-                formMessage.style.display = 'none';
                 formMessage.className = 'form-message';
             }, 5000);
         }, 500);

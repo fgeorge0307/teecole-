@@ -1,0 +1,17 @@
+{
+  "name": "teecole-webapp",
+  "version": "1.0.0",
+  "description": "Teecole Company Web Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "webapp",
+    "company",
+    "teecole"
+  ],
+  "author": "Teecole",
+  "license": "ISC"
+}

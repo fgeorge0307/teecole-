@@ -1,2 +1,2 @@
-# teecole-
+# teecole
 company app
